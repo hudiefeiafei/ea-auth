@@ -1,0 +1,10 @@
+```json
+{
+  "user_id": "user001",
+  "authorized": true,
+  "license_key": "LIC-2026-ABCD-1234",
+  "expire_date": "2026-12-31",
+  "machine_code": "",
+  "reason": ""
+}
+```
