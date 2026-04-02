@@ -1,7 +1,7 @@
 ```json
 {
   "user_id": "xiaohao",
-  "authorized": true,
+  "authorized": false,
   "license_key": "LIC-2026-ABCD-1234",
   "expire_date": "2099-12-31",
   "machine_code": "",
