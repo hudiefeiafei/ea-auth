@@ -1,0 +1,10 @@
+```json
+{
+  "user_id": "xiaohao",
+  "authorized": true,
+  "license_key": "LIC-2026-ABCD-1234",
+  "expire_date": "2099-12-31",
+  "machine_code": "",
+  "reason": "新授权"
+}
+```
